@@ -1,79 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=200&section=header&text=Priyanshu%20Gupta&fontSize=40&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55" />
-</p>
-
-<h2 align="center">Hi 👋, I'm Priyanshu Gupta</h2>
-<h4 align="center">Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT</h4>
+<h1 align="center">Priyanshu Gupta</h1>
+<h3 align="center">AI • SaaS • Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshug254&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshug254&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🧠 Founder & Builder of **HiringMinds.ai** — AI-powered recruitment SaaS  
-- 🏥 Building **AlzCare** — Healthcare AI platform  
-- 🏆 **Smart India Hackathon 2025 Finalist**  
-- ⚙️ Strong in **system design, backend & startup execution**  
-- 🌱 Currently learning **System Design, AI & DSA**  
-- 💬 Ask me about **React, Node.js, SaaS, Startups, Hackathons**  
-- 📫 Reach me at **guptapriyanshu254@gmail.com**
+## 👋 About Me
+
+- 🚀 Founder of **HiringMinds.ai** (AI Recruitment SaaS)  
+- 🏥 Building **AlzCare** (Healthcare AI)  
+- 🏆 Smart India Hackathon 2025 Finalist  
+- 💻 Full Stack Developer (React, Node, TypeScript)  
+- 🧠 Learning **System Design, AI & DSA**  
+
+📫 **guptapriyanshu254@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,mongodb,postgres,python,docker,git,linux" />
-</p>
+## 🛠 Tech Stack
+
+![Stack](https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,mongodb,postgres,python,git,linux,docker)
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 Projects
 
 | Project | Description |
-|--------|------------|
-| **HiringMinds.ai** | AI-powered recruitment & interview automation SaaS |
-| **AlzCare** | Healthcare AI platform for Alzheimer’s patient care |
-| **CodeJudge** | Smart coding evaluation & anti-cheating system |
-| **Portfolio** | Personal developer & startup showcase |
+|--------|-------------|
+| HiringMinds.ai | AI-powered recruitment SaaS |
+| AlzCare | Alzheimer’s care AI platform |
+| CodeJudge | Smart coding evaluation system |
+| Portfolio | Personal developer showcase |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 🔗 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshug254&theme=tokyonight&hide_border=true" />
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/priyanshu-gupta-396b002a4/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Priyanshug254)
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-gupta-396b002a4/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Priyanshug254">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-## 🧩 Why Work With Me?
-- 🏗️ I don’t just code — I build **real products**
-- 🧠 Strong mix of **AI + Backend + System Design**
-- 🚀 Experience with **startups & hackathons**
-- 🤝 Team player with strong communication skills
-
----
-
-## ⚡ Motto
 > **Build. Learn. Improve. Repeat.**
+
