@@ -3,9 +3,7 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Priyanshu Gupta</h2>
-<h4 align="center">
-Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
-</h4>
+<h4 align="center">Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshug254&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -15,7 +13,7 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 
 ## 🚀 About Me
 
-- 🧠 **Founder & Builder of HiringMinds.ai** — AI-powered recruitment SaaS  
+- 🧠 Founder & Builder of **HiringMinds.ai** — AI-powered recruitment SaaS  
 - 🏥 Building **AlzCare** — Healthcare AI platform  
 - 🏆 **Smart India Hackathon 2025 Finalist**  
 - ⚙️ Strong in **system design, backend & startup execution**  
@@ -36,7 +34,7 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 🚀 What I’m Building
 
 | Project | Description |
-|-------|------------|
+|--------|-------------|
 | **HiringMinds.ai** | AI-powered recruitment & interview automation SaaS |
 | **AlzCare** | Healthcare AI platform for Alzheimer’s patient care |
 | **CodeJudge** | Smart coding evaluation & anti-cheating system |
@@ -47,28 +45,20 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshug254&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshug254&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=priyanshug254&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshug254&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshug254&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -88,7 +78,7 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 
 ## 🧩 Why Work With Me?
 
-- 🏗️ I don’t just code — I **build real products**
+- 🏗️ I don’t just code — I build **real products**
 - 🧠 Strong mix of **AI + Backend + System Design**
 - 🚀 Experience with **startups & hackathons**
 - 🤝 Team player with strong communication skills
