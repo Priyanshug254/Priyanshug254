@@ -47,28 +47,23 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshug254&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshug254&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshug254&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshug254&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshug254&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -105,3 +100,32 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 
 If you’re working on **AI, SaaS, startups, or open source**,  
 feel free to reach out — always open to collaboration 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
