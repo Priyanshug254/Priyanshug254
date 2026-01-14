@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshug254&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me
