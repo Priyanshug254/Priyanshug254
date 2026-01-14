@@ -8,7 +8,7 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshug254&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshug254&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -47,28 +47,25 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshug254&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshug254&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshug254&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshug254&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshug254&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshug254&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshug254&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshug254&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshug254&theme=tokyonight" />
 </p>
 
 ---
