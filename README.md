@@ -47,12 +47,12 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshug254&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshug254&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 ---
@@ -60,12 +60,11 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshug254&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Priyanshug254&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshug254&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshug254&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshug254&theme=react-dark&hide_border=true" />
 </p>
 
 ---
