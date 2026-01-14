@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=200&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=180&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Priyanshu Gupta</h2>
-<h4 align="center">
-Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
-</h4>
+<h4 align="center">Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyanshug254&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -15,17 +13,17 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 
 ## 🚀 About Me
 
-- 🧠 **Founder & Builder of HiringMinds.ai** — AI-powered recruitment SaaS  
+- 🧠 Founder & Builder of **HiringMinds.ai** — AI-powered recruitment SaaS  
 - 🏥 Building **AlzCare** — Healthcare AI platform  
 - 🏆 **Smart India Hackathon 2025 Finalist**  
-- ⚙️ Strong in **system design, backend & startup execution**  
+- ⚙️ Strong in **backend, system design & startup execution**  
 - 🌱 Currently learning **System Design, AI & DSA**  
 - 💬 Ask me about **React, Node.js, SaaS, Startups, Hackathons**  
 - 📫 Reach me at **guptapriyanshu254@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,mongodb,postgres,python,docker,git,linux" />
@@ -36,7 +34,7 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 🚀 What I’m Building
 
 | Project | Description |
-|-------|------------|
+|--------|------------|
 | **HiringMinds.ai** | AI-powered recruitment & interview automation SaaS |
 | **AlzCare** | Healthcare AI platform for Alzheimer’s patient care |
 | **CodeJudge** | Smart coding evaluation & anti-cheating system |
@@ -47,25 +45,11 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshug254&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Priyanshug254&theme=radical&no-frame=true&row=1&margin-w=15" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshug254&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -80,15 +64,6 @@ Full Stack Developer • AI & SaaS Builder • B.Tech CSE @ ABESIT
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
----
-
-## 🧩 Why Work With Me?
-
-- 🏗️ I don’t just code — I **build real products**
-- 🧠 Strong mix of **AI + Backend + System Design**
-- 🚀 Experience with **startups & hackathons**
-- 🤝 Team player with strong communication skills
 
 ---
 
