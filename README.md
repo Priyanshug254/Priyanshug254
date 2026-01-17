@@ -1,20 +1,25 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=180&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=180&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" />
+</div>
 
 <!-- Dynamic Typing Header -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+SaaS+Builder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Building+for+Values+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Building+the+Future+with+AI+%F0%9F%9A%80;Full+Stack+Wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <!-- Trophies -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Priyanshug254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
-</p>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshug254&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
@@ -29,11 +34,30 @@
 
 ---
 
+## 🧩 Fun Zone
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <!-- Random Dev Joke -->
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Joke" width="100%" />
+      </td>
+      <td valign="top" width="40%">
+        <!-- Quote of the Day -->
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,mongodb,postgres,python,docker,git,linux,redis,nextjs,express" />
-</p>
+</div>
 
 ---
 
@@ -65,8 +89,8 @@
         <img width="100%" src="https://streak-stats.demolab.com?user=Priyanshug254&theme=tokyonight&hide_border=true" />
       </td>
       <td valign="top" width="50%">
-        <!-- Space for future stats or sticker -->
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJjZjY1YjY5YjY5YjY5YjY5YjY5YjY5YjY5YjY5YjY5/SWoSkN6DxTszq/giphy.gif" width="100%" height="auto" />
+         <!-- Activity Graph (Lines) -->
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshug254&theme=tokyo-night&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -74,15 +98,14 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
+## 🐍 Contribution Snake
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshug254/Priyanshug254/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshug254/Priyanshug254/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Priyanshug254/Priyanshug254/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</div>
 
 ---
 
@@ -101,5 +124,6 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
   <b>Built with ❤️ and a lot of ☕</b>
 </p>
