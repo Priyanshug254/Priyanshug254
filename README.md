@@ -1,18 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=180&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20%7C%20SaaS%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=180&section=header&text=Priyanshu%20Gupta&fontSize=42&fontAlignY=35&desc=AI%20|%20SaaS%20|%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" />
 </div>
 
-<!-- Dynamic Typing Header - Increased width to 600 to fix cutoff -->
+<!-- Dynamic Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%F0%9F%9A%80;Full+Stack+Wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Trophies - Simplified for better reliability -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Priyanshug254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
@@ -37,11 +30,10 @@
 ## 🧩 Fun Zone
 
 <div align="center">
-  <!-- Stacked to prevent layout breakage -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Joke" width="60%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Joke" width="80%" />
   <br />
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="60%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="80%" />
 </div>
 
 ---
@@ -68,13 +60,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Simplified params to fix broken images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshug254&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshug254&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-<br />
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Priyanshug254&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  <!-- Replaced broken stats with working Streak Stats and Activity Graph -->
+  <img src="https://streak-stats.demolab.com?user=Priyanshug254&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 </div>
 <br />
 <div align="center">
